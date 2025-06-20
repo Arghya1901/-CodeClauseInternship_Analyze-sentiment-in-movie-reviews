@@ -23,9 +23,8 @@ This project uses **Natural Language Processing (NLP)** techniques to clean the 
 - 📈 **Model Performance**
 - 🧪 **How to Use**
 - 🏁 **Results**
-- 🚀 **Future Improvements**
-- 👥 **Contributors**
-- 📝 **License**
+- 👥 **Author**
+
 
 ---
 
