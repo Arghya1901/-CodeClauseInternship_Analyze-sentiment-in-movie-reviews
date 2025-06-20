@@ -32,6 +32,7 @@ This project uses **Natural Language Processing (NLP)** techniques to clean the 
 
 ## 📊 **DATASET INFORMATION**
 - **Name**: *IMDb Movie Reviews Dataset*
+- **Source**: [Kaggle - IMDb Dataset of 50K Movie Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 - **Format**: CSV  
 - **Total Records**: 50,000 movie reviews  
 - **Data Split**:
